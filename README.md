@@ -21,7 +21,7 @@ This repository complements the survey:
 }
 ```
 
-![From Traditional Commerce to E-Commerce to Agentic Commerce](assets/a-commerce.png)
+[![From Traditional Commerce to E-Commerce to Agentic Commerce](assets/a-commerce.png)](assets/a-commerce.pdf)
 
 ## Industry Reports & Whitepapers
 
@@ -38,7 +38,7 @@ This repository complements the survey:
 *Organization: **Stage** → **Agent Role** (as defined in the survey).*  
 *Lifecycle stages (§2): Awareness → Discovery → Engagement → Decision → Transaction → Fulfillment → Service.*
 
-![Agentic Commerce pipeline and agent roles across lifecycle stages](assets/pipeline.png)
+[![Agentic Commerce pipeline and agent roles across lifecycle stages](assets/pipeline.png)](assets/pipeline.pdf)
 
 ### Awareness
 
