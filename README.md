@@ -94,6 +94,7 @@ This repository complements the survey:
 * [arXiv 2025] LORE: A Large Generative Model for Search Relevance. [link](https://arxiv.org/pdf/2512.03025)
 * [WWW 2025] LREF: A Novel LLM-based Relevance Framework for E-commerce Search. [link](https://dl.acm.org/doi/pdf/10.1145/3701716.3715246)
 * [ACL Industry 2025] User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems. [link](https://aclanthology.org/2025.acl-industry.70.pdf)
+* [arXiv 2026] Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model. [link](https://arxiv.org/pdf/2604.14051)
 ---
 
 ### Engagement
@@ -244,6 +245,7 @@ This repository complements the survey:
 * [WWW 2025] LREF: A Novel LLM-based Relevance Framework for E-commerce Search. [link](https://dl.acm.org/doi/pdf/10.1145/3701716.3715246)
 * [ACM Transactions on Information Systems 2025] Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations. [link](https://arxiv.org/pdf/2308.16505)
 * [ACL Industry 2025] User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems. [link](https://aclanthology.org/2025.acl-industry.70.pdf)
+* [arXiv 2026] Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model. [link](https://arxiv.org/pdf/2604.14051)
 
 ### Platform Services & Enterprise Solutions
 
